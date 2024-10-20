@@ -45,3 +45,6 @@ WHERE CONDITION =TRUE
 ### Data Visualization
 [Book1 DATA ENTRY.xlsx](https://github.com/user-attachments/files/17452177/Book1.DATA.ENTRY.xlsx)
 
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1 |Table 2 |Table 3 |
